@@ -46,7 +46,7 @@ export default {
       result.unshift(0);
       
       this.fibonacci = result;
-      alert("Success, server responded with: " + this.getTimestamp() );
+      // alert("Success, server responded with: " + this.getTimestamp() );
     }
     
    }
